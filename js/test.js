@@ -93,7 +93,6 @@ class Pizza {
   #sauce = "tradional";
   constructor(pizzaSize) {
     this.size = pizzaSize;
-    this.crust = "original";
   }
   getCrust() {
     return this.crust;
