@@ -110,3 +110,4 @@ class Pizza {
 
 const myPizza = new Pizza("large");
 myPizza.hereYouGo();
+console.log(myPizza.crust);
